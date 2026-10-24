@@ -1,0 +1,13 @@
+Audio decoded: 4320000 samples, peak=1.0963113
+原片精剪预览-45秒.mp4: duration=45.0, size=(1280.0, 720.0), fps=25.0, audio_tracks=1, decode=OK
+Audio decoded: 480000 samples, peak=0.98323005
+样片对应原片-5秒.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.0, audio_tracks=1, decode=OK
+01-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.0, audio_tracks=0, decode=OK
+02-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.0, audio_tracks=0, decode=OK
+03-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.0, audio_tracks=0, decode=OK
+04-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.0, audio_tracks=0, decode=OK
+05-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.000002, audio_tracks=0, decode=OK
+06-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.0, audio_tracks=0, decode=OK
+07-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.000002, audio_tracks=0, decode=OK
+08-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.000002, audio_tracks=0, decode=OK
+09-reference.mp4: duration=5.0, size=(1280.0, 720.0), fps=25.0, audio_tracks=0, decode=OK

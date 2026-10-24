@@ -1,0 +1,25 @@
+{
+  "actual_spend_status": "Task complete. Authoritative returned usage has been re-quoted; wallet transaction amount not exposed by this task endpoint.",
+  "actual_wallet_transaction_verified": false,
+  "base_total_estimate_credits": 3510,
+  "base_total_with_returned_sample_usage_estimate_credits": 3511.625,
+  "budget_limit_credits": 5000,
+  "completed_generation_count": 1,
+  "generation_approval": "sample_completed_pending_user_review",
+  "host": "https://dev-aicanvas.qnlinking.com",
+  "known_generation_spend_credits": null,
+  "notes": [
+    "5000积分为本次上限，不动用另外5000积分。",
+    "参考视频输入39积分/秒，输出39积分/秒；45秒输入加45秒输出共3510积分。",
+    "样片通过后才提交剩余批次，失败不自动重提。"
+  ],
+  "quote_checked_at": "2026-10-24T22:14:33+08:00",
+  "remaining_40s_estimate_credits": 3120,
+  "sample_estimate_credits": 390,
+  "sample_returned_usage_quote_credits": 391.625,
+  "submitted_estimate_credits": 390,
+  "submitted_generation_count": 1,
+  "unallocated_credits": 1488.375,
+  "initial_unallocated_credits": 1490,
+  "remaining_project_budget_after_returned_usage_quote_credits": 4608.375
+}

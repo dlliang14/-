@@ -1,0 +1,13 @@
+{
+  "duration_seconds": 5,
+  "generation_submitted": false,
+  "host": "https://dev-aicanvas.qnlinking.com",
+  "local_path": "成片/琅琊榜打戏动漫版/参考片段/04-reference.mp4",
+  "sha256": "12eaa50d139aad84cb53dfd552990af70ec896af5ab50a0b3bf0cb146c000c24",
+  "size_bytes": 4124115,
+  "source_end": "00:32:51",
+  "source_start": "00:32:46",
+  "upload_hash": "FuYj4cDVbBPYXPCncYdZIIWnAiSM",
+  "uploaded_at": "2026-10-24T22:14:33+08:00",
+  "url": "https://canvas-test.ifsdc.com/videos/8c728d23-6441-4260-912c-4cbf0c00a965.mp4"
+}

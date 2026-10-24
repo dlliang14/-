@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-10-24T22:14:50+08:00",
+  "current_stage": "awaiting_sample_review",
+  "host": "https://dev-aicanvas.qnlinking.com",
+  "operations": [
+    {
+      "confirmation_hash": "9eecd507a6f3cc172799bfc6cc15bfaf3237afd243b9fde9257ef686924fa578",
+      "estimated_credits": "390",
+      "operation_id": "780503a6-4dd9-4186-9371-80e351e91b26",
+      "operation_type": "media_task",
+      "poll_path": "/api/ai/tasks/780503a6-4dd9-4186-9371-80e351e91b26",
+      "result_url": "https://canvas-test.ifsdc.com/ai_gen/videos/780503a6-4dd9-4186-9371-80e351e91b26_0.mp4",
+      "scope": {
+        "cut_index": 4,
+        "duration_seconds": 5,
+        "kind": "sample"
+      },
+      "status": "completed",
+      "submitted_at": "2026-10-24T22:23:04+08:00",
+      "updated_at": "2026-10-24T22:26:35+08:00"
+    }
+  ],
+  "project_name": "琅琊榜打戏动漫版",
+  "resources": {},
+  "schema_version": 1,
+  "updated_at": "2026-10-24T22:28:20+08:00"
+}

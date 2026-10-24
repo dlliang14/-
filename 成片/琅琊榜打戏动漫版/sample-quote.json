@@ -1,0 +1,40 @@
+{
+  "approval_scope": "Only cut 04, five seconds, Mini 720p, 390 credits; remaining 40 seconds not approved",
+  "approved_at": "2026-10-24T22:22:08+08:00",
+  "approved_for_generation": true,
+  "checked_at": "2026-10-24T22:14:33+08:00",
+  "compatibility_correction": "Omit optional video_mode, matching the development frontend Seedance builder; prompt/model/media/duration/resolution/cost unchanged.",
+  "host": "https://dev-aicanvas.qnlinking.com",
+  "original_request_sha256": "8c911941cc69197a1191c906fad6eaaef96828f9dadf894a1cd9d3a3332ec5cb",
+  "quote": {
+    "billing_mode": "per_second",
+    "lines": [
+      {
+        "cost": 195,
+        "direction": "output",
+        "quantity": 5,
+        "resolution": "720p",
+        "resource": "video",
+        "unit": "second",
+        "unit_price": 39
+      },
+      {
+        "cost": 195,
+        "direction": "input",
+        "quantity": 5,
+        "resolution": "720p",
+        "resource": "video",
+        "unit": "second",
+        "unit_price": 39
+      }
+    ],
+    "model_id": "doubao-seedance-2-0-mini-260615",
+    "points_unit": "积分",
+    "price_multiplier": 1,
+    "scene_key": "ai_video_generate",
+    "total_cost": 390
+  },
+  "request_input_video_seconds": 5,
+  "request_output_seconds": 5,
+  "request_sha256": "6da65f8444c826659b993cd9eb20ce0a2c64d3c1cdb7e14261815ac83f42ed58"
+}

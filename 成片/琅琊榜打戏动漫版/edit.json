@@ -1,0 +1,15 @@
+{
+  "source": "剧本/琅琊榜网络版-01-免费在线观看-爱壹帆国际版.mp4",
+  "sample_index": 4,
+  "cuts": [
+    {"index": 1, "source_start": 1929, "duration": 5, "purpose": "骑马相迎、抱拳问候与车内观察，建立人物关系"},
+    {"index": 2, "source_start": 1935, "duration": 5, "purpose": "拔剑起身、腾空翻转，开启交手"},
+    {"index": 3, "source_start": 1949, "duration": 5, "purpose": "蓝银甲女将起手、双方近身交锋"},
+    {"index": 4, "source_start": 1966, "duration": 5, "purpose": "女将与灰蓝白衣、紫衣男子近身拆招；首个动漫样片"},
+    {"index": 5, "source_start": 1975, "duration": 5, "purpose": "多人格挡、转身与腾跃，拉开动作空间"},
+    {"index": 6, "source_start": 1980, "duration": 5, "purpose": "女将挥剑、俯拍三人走位"},
+    {"index": 7, "source_start": 1985, "duration": 5, "purpose": "剑招特写与攻防节奏推进"},
+    {"index": 8, "source_start": 1990, "duration": 5, "purpose": "腾空回击、落地翻滚，动作高潮"},
+    {"index": 9, "source_start": 1995, "duration": 5, "purpose": "持剑收势，转入车内人物反应作为结尾"}
+  ]
+}

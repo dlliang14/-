@@ -1,0 +1,12 @@
+{
+  "generation_task_count_before_corrected_submit": 0,
+  "validation_rejections": [
+    {
+      "at": "2026-10-24T22:23:03+08:00",
+      "code": "InvalidParameter.VideoMode",
+      "operation_id_returned": false,
+      "request_file": "sample-request-rejected.json",
+      "resolution": "Omit optional video_mode as documented and used by the frontend."
+    }
+  ]
+}

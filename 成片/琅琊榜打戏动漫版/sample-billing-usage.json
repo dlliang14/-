@@ -1,0 +1,39 @@
+{
+  "note": "Quote calculated from returned billing_usage; not an independently verified wallet transaction.",
+  "quote_for_returned_usage": {
+    "billing_mode": "per_second",
+    "lines": [
+      {
+        "cost": 196.625013,
+        "direction": "output",
+        "quantity": 5.041667,
+        "resolution": "720p",
+        "resource": "video",
+        "unit": "second",
+        "unit_price": 39
+      },
+      {
+        "cost": 195,
+        "direction": "input",
+        "quantity": 5,
+        "resolution": "720p",
+        "resource": "video",
+        "unit": "second",
+        "unit_price": 39
+      }
+    ],
+    "model_id": "doubao-seedance-2-0-mini-260615",
+    "points_unit": "积分",
+    "price_multiplier": 1,
+    "scene_key": "ai_video_generate",
+    "total_cost": 391.625
+  },
+  "returned_usage": {
+    "duration": 5.041667,
+    "has_video_input": true,
+    "input_video_duration": 5,
+    "quantity": 1,
+    "resolution": "720p"
+  },
+  "transaction_amount_available": false
+}

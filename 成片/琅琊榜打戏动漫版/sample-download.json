@@ -1,0 +1,8 @@
+{
+  "download_method": "CDN signature via /api/media/sign-urls",
+  "file": "成片/琅琊榜打戏动漫版/动漫样片-模型原始输出.mp4",
+  "sha256": "a4abbb68d8e8998975afb70ef5fbedd6cc98bda5bb3b9a8332f0593cc916fb66",
+  "size_bytes": 3854683,
+  "source_host": "canvas-test.ifsdc.com",
+  "task_status": "completed"
+}
